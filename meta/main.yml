@@ -55,4 +55,6 @@ galaxy_info:
     - ubuntuprecise
     - ubuntutrusty
     - ubuntuxenial
+    - leap
+    - sles
 dependencies: []
